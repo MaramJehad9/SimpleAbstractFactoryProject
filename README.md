@@ -1,4 +1,4 @@
-# SimpleAbstractFactoryProject
+# SimpleAbstractFactoryExample
 
 generate the .exe file 
 
